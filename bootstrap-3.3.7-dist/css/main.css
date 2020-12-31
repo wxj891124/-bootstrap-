@@ -1,0 +1,45 @@
+.btn-danger {
+    color: #fff;
+    background-color: #00FAA5;
+    border-color: #00FAA5;}
+.jumbotron {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-bottom: 60px;
+  color: white;
+  font-family: "microsoft yahei";
+    background: url(https://i.loli.net/2020/12/07/4fE8FUXAGubLBml.jpg);
+    }
+  
+
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+    font-family: "microsoft yahei"
+}
+
+h5 {
+    text-align: center;
+}
+.jumbotron h1 {
+    font-size: 50px;}
+
+.glyphicon {
+    position: relative;
+    top: 10px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 800;
+    line-height: 2px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 30px;
+
+}
+.container{text-align: center;}
